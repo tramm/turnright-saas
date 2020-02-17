@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "saas",
   "version": "0.0.0",
   "scripts": {
     "build:production": "cd ./frontend && npm install && npm run build:production && rm -rf ./node_modules && cd ../backend && npm install",
