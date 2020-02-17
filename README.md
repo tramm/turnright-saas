@@ -1,2 +1,1 @@
-Visit https://scaffoldhub.io/react-material-ui-mongodb for docs/instructions.
-Version: 1.7.4
+Saas module for dealership managment as a service
